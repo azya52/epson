@@ -15,11 +15,17 @@ It should be kept in mind that some 2.5 jacks do not completely enter to the inp
 
 <img src="/misc/20180904_111937.jpg" width="30%">
 Therefore, it is desirable to remove the back cover on the watch and make sure the connection is correct.
-<br/><br/>
+
+## Transmit
 The watch is put into receve mode as follows:
 
 <img src="/misc/rc20loadingnow.jpg" width="70%">
+
+To transfer binary file to the watch, you can use the [rc20dt](https://github.com/azya52/epson/tree/master/tools/rc20dt) application, which adds the necessary headers and sends the finished data to the watch.
+
 After the transfer is finished, the watch will show "PROGRAM RUN?"
+
+
 
 **T-rex demo**<br />
 [![Video](https://img.youtube.com/vi/gIUXOaXoHQo/0.jpg)](https://www.youtube.com/watch?v=gIUXOaXoHQo)
