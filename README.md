@@ -30,7 +30,9 @@ rc20dt [-p \<port name\>] \<file name\>
 
 After the transfer is finished, the watch will show "PROGRAM RUN?"
 
+## Assembler
+To build the program any Z80 assembler will do (although some examples from the book use the i8080 notation). I used [zmac](http://www.48k.ca/zmac.html).
 
-
-**T-rex demo**<br />
+## T-rex
+To demonstrate the potential of the watch, I wrote a clone of Google T-Rex game:<br/>
 [![Video](https://img.youtube.com/vi/gIUXOaXoHQo/0.jpg)](https://www.youtube.com/watch?v=gIUXOaXoHQo)
