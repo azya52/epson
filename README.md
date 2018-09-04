@@ -2,7 +2,7 @@
 
 ## Data cable
 
-To transfer data to the clock, you can use any USB to UART module (which can be easily found on ebay or aliexpress). I used a module built on a CP2102 chip. But, without further development, you can either receive data, or send them (Because the RC-20 uses rs232c signal levels that are inverse to TTL levels).
+To transfer data to the watch, you can use any USB to UART TTL module (which can be easily found on ebay or aliexpress). I used a module built on a CP2102 chip. But, without further development, you can either receive data, or send them (Because the RC-20 uses rs232c signal levels that are inverse to TTL levels).
 For transmit data, UART module with 2.5 Jack must be connected as follows:
 
 |=TX=|====|=GND=>
