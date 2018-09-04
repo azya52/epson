@@ -25,7 +25,7 @@ To transfer binary file to the watch, you can use the [rc20dt](https://github.co
 
 Usage:<br/>
 ```
-**rc20dt [-p \<port name\>] \<file name\>**
+rc20dt [-p \<port name\>] \<file name\>
 ```
 
 After the transfer is finished, the watch will show "PROGRAM RUN?"
