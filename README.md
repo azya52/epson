@@ -36,7 +36,7 @@ To build the program any Z80 assembler will do (although some examples from the 
 A list of system subrouthine adresses can be found [here](https://github.com/azya52/epson/blob/master/apps/other/systemSubroutine.inc)
 
 ## T-rex
-To demonstrate the potential of the watch, I wrote a clone of Google T-Rex game. The game sources and the binary file ready to be sent to the watch are [here](https://github.com/azya52/epson/tree/master/apps/my).
+To demonstrate the potential of the watch, I wrote a clone of Google T-Rex game. The game sources and the binary file ready to be sent to the watch are [here](https://github.com/azya52/epson/tree/master/apps/my).<br/>
 [![Video](https://img.youtube.com/vi/gIUXOaXoHQo/0.jpg)](https://www.youtube.com/watch?v=gIUXOaXoHQo)
 
 
