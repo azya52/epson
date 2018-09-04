@@ -10,12 +10,12 @@ For transmit data, UART module with 2.5 Jack must be connected as follows:
 For receive data from the RC-20:
 
 |=RX=|=GND=|====>
-<br/>
+<br/><br/>
 It should be kept in mind that some 2.5 jacks do not completely enter to the input on the watch, in this case I slightly cut the plastic case, as in the photo:
 
 <img src="/misc/20180904_111937.jpg" width="30%">
 Therefore, it is desirable to remove the back cover on the watch and make sure the connection is correct.
-<br/>
+<br/><br/>
 The watch is put into receve mode as follows:
 
 <img src="/misc/rc20loadingnow.jpg" width="70%">
