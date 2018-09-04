@@ -22,7 +22,9 @@ The watch is put into receve mode as follows:
 <img src="/misc/rc20loadingnow.jpg" width="70%">
 
 To transfer binary file to the watch, you can use the [rc20dt](https://github.com/azya52/epson/tree/master/tools/rc20dt) application, which adds the necessary headers and sends the finished data to the watch.
-
+Usage: 
+  rc20dt [-p <port name>] <file name>
+  
 After the transfer is finished, the watch will show "PROGRAM RUN?"
 
 
