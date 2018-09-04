@@ -32,6 +32,7 @@ After the transfer is finished, the watch will show "PROGRAM RUN?"
 
 ## Assembler
 To build the program any Z80 assembler will do (although some examples from the book use the i8080 notation). I used [zmac](http://www.48k.ca/zmac.html).
+A list of system subrouthine adresses can be found [here](https://github.com/azya52/epson/blob/master/apps/other/systemSubroutine.inc)
 
 ## T-rex
 To demonstrate the potential of the watch, I wrote a clone of Google T-Rex game:<br/>
