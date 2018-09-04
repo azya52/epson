@@ -15,7 +15,12 @@ It should be kept in mind that some 2.5 jacks do not completely enter to the inp
 
 <img src="/misc/20180904_111937.jpg" width="30%">
 
-Therefore, it is desirable to remove the back cover on the watch and make sure the correct contact.
+Therefore, it is desirable to remove the back cover on the watch and make sure the connection is correct.
+
+The watch is put into receve mode as follows:
+<img src="/misc/rc20loadingnow.jpg" width="70%">
+
+After the transfer is finished, the watch will show "PROGRAM RUN?"
 
 **T-rex demo**<br />
 [![Video](https://img.youtube.com/vi/gIUXOaXoHQo/0.jpg)](https://www.youtube.com/watch?v=gIUXOaXoHQo)
