@@ -4,7 +4,7 @@
 
 With the start of sales of RC-20, the programmer's manual for RC-20 was published in Japan, which describes in detail the options of connecting the watch to a PC and developing applications for them.
 
-[Original scan](https://github.com/azya52/epson/blob/master/book/Complete_RC20_Book.pdf)
+[Original scan](https://github.com/azya52/epson/blob/master/book/Complete_RC20_Book.pdf)<br/>
 [Passed through OCR](https://github.com/azya52/epson/blob/master/book/Complete_RC20_Book_OCR.pdf)
 
 The book was published with the kind permission of the author of the Youtube channel [Vintage Digital Watches](https://www.youtube.com/channel/UCgl5Qu5T00E7GMFNkMxby-g)
