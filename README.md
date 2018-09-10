@@ -1,5 +1,14 @@
 # Epson RC-20 retrochallenge
 
+## Book
+
+With the start of sales of RC-20, the programmer's manual for RC-20 was published in Japan, which describes in detail the options of connecting the watch to a PC and developing applications for them.
+
+[Original scan](https://github.com/azya52/epson/blob/master/book/Complete_RC20_Book.pdf)
+[Passed through OCR](https://github.com/azya52/epson/blob/master/book/Complete_RC20_Book_OCR.pdf)
+
+The book was published with the kind permission of the author of the Youtube channel [Vintage Digital Watches](https://www.youtube.com/channel/UCgl5Qu5T00E7GMFNkMxby-g)
+
 ## Data cable
 
 To transfer data to the watch, you can use any USB to UART TTL module (which can be easily found on ebay or aliexpress). I used a module built on a CP2102 chip. But, without further development, you can either receive data, or send them (Because the RC-20 uses rs232c signal levels that are inverse to TTL levels).
