@@ -42,6 +42,12 @@ SerialPort::SerialPort(char *portName, int baudRate)
 				PurgeComm(this->handler, PURGE_RXCLEAR | PURGE_TXCLEAR);
 				Sleep(ARDUINO_WAIT_TIME);
 			}
+			
+			COMMTIMEOUTS timeouts;
+			timeouts.ReadIntervalTimeout=100;
+			timeouts.ReadTotalTimeoutMultiplier = 0;
+			timeouts.ReadTotalTimeoutConstant = 100;
+			SetCommTimeouts(handler, &timeouts);
 		}
 	}
 }
@@ -55,6 +61,7 @@ SerialPort::~SerialPort()
 }
 
 int SerialPort::available() {
+	ClearCommError(this->handler, &this->errors, &this->status);
 	return this->status.cbInQue;
 }
 
