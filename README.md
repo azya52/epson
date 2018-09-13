@@ -21,7 +21,7 @@ For receive data from the RC-20:
 |=RX=|=GND=|====>
 
 **FTDI**<br/>
-A fully functional data cable can be made on an FTDI chip (it is also used in many cheap USB UART modules). Connection diagram:
+A fully functional data cable can be made using the FTDI chip (it is also used in many cheap USB UART modules). Connection diagram:
 
 <img src="/misc/ftdi2jack.png" width="70%"/>
 
