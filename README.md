@@ -20,13 +20,14 @@ For receive data from the RC-20:
 
 |=RX=|=GND=|====>
 
+**FTDI**<br/>
 A fully functional data cable can be made on an FTDI chip (it is also used in many cheap USB UART modules). Connection diagram:
 
 <img src="/misc/ftdi2jack.png" width="70%"/>
 
 However, before use it is necessary to configure the chip with the [FT_Prog](https://www.ftdichip.com/Support/Utilities.htm#FT_PROG)  utility. With its help, it is necessary to set the inverting of the RXD and TXD levels.
 
-<br/><br/>
+**Note**<br/>
 It should be kept in mind that some 2.5 jacks do not completely enter to the input on the watch, in this case I slightly cut the plastic case, as in the photo:
 
 <img src="/misc/20180904_111937.jpg" width="30%">
